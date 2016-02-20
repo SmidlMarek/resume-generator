@@ -1,0 +1,276 @@
+{
+
+  "name": "Jane Q. Fullstacker",
+
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.4.0"
+  },
+
+  "info": {
+    "label": "Senior Developer",
+    "characterClass": "Programmer",
+    "brief": "**Imaginary full-stack software developer with 6+ years industry experience** specializing in cloud-driven web applications and middleware. A native of southern CA, Jane enjoys hiking, mystery novels, and the company of Rufus, her two year old beagle.",
+    "image": "jane_doe.png",
+    "quote": "Be the change you want to see in the world."
+  },
+
+  "contact": {
+    "website": "http://janef.me/blog",
+    "phone": "1-650-999-7777",
+    "email": "jdoe@onecoolstartup.io",
+    "other": [
+      {
+        "label": "Home Phone",
+        "flavor": "phone",
+        "value": "1-650-999-4321"
+      },
+      {
+        "label": "Work Phone",
+        "flavor": "phone",
+        "value": "1-650-777-1234"
+      },
+      {
+        "label": "Personal Email",
+        "flavor": "email",
+        "value": "jane@janef.me"
+      }
+    ]
+  },
+
+  "location": {
+    "address": "Jane Fullstacker\n123 Somewhere Rd.\nMountain View, CA 94035",
+    "city": "Mountain View",
+    "region": "CA",
+    "code": "94035",
+    "country": "US"
+  },
+
+  "projects": [
+    {
+      "title": "HackMyResume",
+      "category": "FOSS",
+      "role": "contributor",
+      "url": "http://please.hackmyresume.com",
+      "start": "2015-09",
+      "repo": "https://github.com/hacksalot/hackmyresume",
+      "description": "A resume authoring and analysis tool for OS X, Linux, and Windows.",
+      "summary": "Exemplar user for HackMyResume and FluentCV!",
+      "keywords": ["JavaScript", "Node.js", "cross-platform", "JSON"],
+      "media": [
+        {
+          "category": "download",
+          "url": "https://www.npmjs.com/package/hackmyresume"
+        }
+      ]
+    },
+    {
+      "title": "Blog",
+      "category": "personal",
+      "role": "creator",
+      "url": "http://myblog.jane.com/blog",
+      "description": "My programming blog. Powered by Jekyll.",
+      "summary": "Conceptualization, design, development, and deployment.",
+      "keywords": ["Jekyll", "Ruby", "HTML 5", "JavaScript", "HTTP", "LAMP"]
+    }
+  ],
+
+  "social": [
+
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "user": "janef-was-here",
+      "url": "https://github.com/janef-was-here"
+    },
+
+    {
+      "label": "Twitter",
+      "network": "Twitter",
+      "user": "janef-was-here",
+      "url": "https://twitter.com/janef-was-here"
+    }
+  ],
+
+  "employment": {
+
+    "summary": "7+ years industry IT and software development experience.",
+
+    "history": [
+
+      {
+        "employer": "Area 52",
+        "url": "https://area52.io/does-not-exist",
+        "position": "Head Code Ninja",
+        "summary": "Development team manager for [**Quantum Diorama**](https://en.wikipedia.org/wiki/Vaporware), a distributed molecular modeling and analysis suite for Linux and OS X.",
+        "start": "2013-09",
+        "keywords": ["Agile","PM","C","C++","R","OpenGL","Boost","MySQL","PostgreSQL","JIRA"],
+        "highlights": ["Managed a 5-person development team", "Accomplishment 2", "Etc."]
+      }
+    ]
+
+  },
+
+  "education": {
+
+    "summary": "",
+
+    "level": "degree",
+
+    "degree": "BSCS",
+
+    "history": [
+
+      {
+        "institution": "Cornell University",
+        "title": "BSCS",
+        "url": "https://www.cornell.edu/",
+        "start": "2005-09",
+        "end": "2008-05",
+        "grade": "3.5",
+        "summary": "A multiline summary of the education.",
+        "curriculum": ["Course 1", "Course 2", "Course 2"]
+      },
+
+      {
+        "institution": "Medfield College",
+        "title": "",
+        "url": "https://en.wikipedia.org/wiki/Medfield_College",
+        "start": "2003-09",
+        "end": "2005-06",
+        "grade": "3.2",
+        "summary": "A multiline summary of the education.",
+        "curriculum": ["Course 1", "Course 2", "Course 2"]
+      }
+    ]
+
+  },
+
+  "affiliation": {},
+
+  "service": {},
+
+  "skills": {
+
+    "sets": [
+      {
+        "name": "Web",
+        "level": "master",
+        "skills": [
+          "JavaScript", "HTML5", "CSS", "MVC", "REST"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "master",
+        "skills": [
+          "Node.js", "jQuery", "Backbone.js"
+        ]
+      },
+      {
+        "name": "Database",
+        "level": "advanced",
+        "skills": [
+          "MySQL", "PostgreSQL", "SQLite", "NoSQL", "ORM"
+        ]
+      }
+    ],
+
+    "list": [
+      {
+        "name": "JavaScript",
+        "summary": "Optional summary of your experience with the skill.",
+        "level": "master",
+        "years": "7+"
+      },
+      {
+        "name": "PHP",
+        "summary": "Optional summary of your experience with the skill.",
+        "level": "advanced",
+        "years": "7+"
+      },
+      {
+        "name": "Linux",
+        "summary": "Optional summary of your experience with the skill.",
+        "level": "advanced",
+        "years": "5+"
+      }
+    ]
+  },
+
+  "samples": [
+    {
+      "title": "Asteroids",
+      "summary": "A browser-based space shooter built on Three.js.",
+      "url": "http://janef.me/asteroids",
+      "date": "2014-09"
+    }
+  ],
+
+  "writing": [
+    {
+      "title": "Jane Fullstacker's Blog",
+      "flavor": "blog",
+      "date": "2011",
+      "publisher": {
+        "name": "self",
+        "url": "http://janef.me"
+      },
+      "url": "http://janef.me"
+    }
+  ],
+
+  "reading": [
+    {
+      "title": "Hacker News / YCombinator",
+      "flavor": "website",
+      "url": "https://news.ycombinator.com/",
+      "summary": "Daily reader and longtime lurker."
+    },
+    {
+      "title": "Coding Horror",
+      "flavor": "blog",
+      "url": "http://www.codinghorror.com",
+      "author": "Jeff Atwood",
+      "summary": "Reader since 2007; member of StackOverflow."
+    }
+  ],
+
+  "speaking": [],
+
+  "recognition": [],
+
+  "references": [],
+
+  "testimonials": [],
+
+  "languages": [
+    {
+      "language": "English",
+      "level": "native"
+    },
+    {
+      "language": "Czech",
+      "level": "intermediate",
+      "years": "2+"
+    },
+    {
+      "language": "Spanish",
+      "level": "elementary",
+      "years": "2+"
+    }
+  ],
+
+  "extracurricular": [],
+
+  "governance": [],
+
+  "interests": [
+    {
+      "name": "reading",
+      "summary": "Books, papers, and technical articles relating to technology and philosophy.",
+      "keywords": [ "technology", "philosophy" ]
+    }
+  ]
+
+}
